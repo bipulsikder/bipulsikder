@@ -38,6 +38,12 @@
 
 ---
 
+📊 **WakaTime Stats**  
+
+![Bipul's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
+
+---
+
 🚀 **Projects & Contributions**  
 📌 [**Project Name**](https://github.com/your-github-username/project-repo) - Short description.  
 📌 [**Another Project**](https://github.com/your-github-username/project-repo) - Short description.  
