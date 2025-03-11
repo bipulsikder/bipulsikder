@@ -8,6 +8,27 @@ I love crafting **real-world solutions** and optimizing systems to handle **scal
 
 ---
 
+
+## 🌍 Let's Connect!  
+💬 Open to **collaborations, discussions, and exciting opportunities!** Feel free to reach out.  
+
+<p align="center">
+
+  <a href="https://bipulsikder.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bipulsikder/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Bipul_16s"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@bipulsikder"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/BranchEast8234/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="mailto:sikder16bipul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+
+
+---
+
 ## ⚡ Tech Stack  
 
 <p>
@@ -54,20 +75,6 @@ I love crafting **real-world solutions** and optimizing systems to handle **scal
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
 
-## 🌍 Let's Connect!  
-💬 Open to **collaborations, discussions, and exciting opportunities!** Feel free to reach out.  
 
-<p align="center">
 
-  <a href="https://bipulsikder.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bipulsikder/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Bipul_16s"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@bipulsikder"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/BranchEast8234/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a href="mailto:sikder16bipul@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
