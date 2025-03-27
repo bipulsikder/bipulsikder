@@ -58,6 +58,7 @@ I love crafting **real-world solutions** and optimizing systems to handle **scal
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-%230468D7.svg?&style=for-the-badge&logo=render&logoColor=white" />
+  
 
   <!-- DevOps & CI/CD -->
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
@@ -69,10 +70,13 @@ I love crafting **real-world solutions** and optimizing systems to handle **scal
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
   <!-- Misc -->
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+
+
 </p>
 
 
